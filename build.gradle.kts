@@ -13,6 +13,8 @@ repositories {
 
 dependencies {
     testImplementation(kotlin("test"))
+    testImplementation("org.mockito:mockito-junit-jupiter:4.7.0")
+    testImplementation("org.junit.jupiter:junit-jupiter")
 }
 
 tasks.test {
