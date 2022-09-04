@@ -1,0 +1,9 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: Used Car Portal
+  data:
+    mongodb:
+      database: used-car-db
+      uri: mongodb://localhost:27017

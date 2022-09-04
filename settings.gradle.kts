@@ -1,3 +1,2 @@
-
-rootProject.name = "car-rental-service"
+rootProject.name = "used-car-portal"
 
