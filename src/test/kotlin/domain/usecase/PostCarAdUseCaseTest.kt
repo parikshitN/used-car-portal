@@ -1,6 +1,7 @@
+package domain.usecase
+
 import domain.input.CarAdInput
 import domain.repository.CarAdRepository
-import domain.usecase.PostCarAdUseCase
 import org.junit.jupiter.api.Nested
 import org.junit.jupiter.api.Test
 import org.mockito.Mockito.mock
